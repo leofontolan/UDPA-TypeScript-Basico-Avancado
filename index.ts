@@ -1,7 +1,2 @@
-function greet(name) {
-    return `Hello ${name}`;
-}
+const leo = 'Leo';
 
-console.log(greet('John'));
-
-export default greet;
