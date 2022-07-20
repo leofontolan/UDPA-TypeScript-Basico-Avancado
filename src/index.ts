@@ -1,2 +1,3 @@
-const nome = 'Leo';
-const sobrenome = 'Fontolan';
+import mod from './mod';
+
+mod();
