@@ -1,5 +1,5 @@
-function showMessage(msg: any): any {
+function showMessage(msg: string): string {
   return msg;
 }
 
-console.log(showMessage([1, 2, 3]));
+console.log(showMessage('Olá Mundo!'));
