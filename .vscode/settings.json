@@ -1,7 +1,8 @@
 {
-    "code-runner.executorMap": {
-        "typescript": "npx ts-node --files",
-    },
-    "editor.formatOnSave": true,
-    "prettier.eslintIntegration": true,
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files",
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
 }
